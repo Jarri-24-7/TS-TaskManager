@@ -11,7 +11,7 @@ A task management backend built with TypeScript and Express.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/TS-TaskManager.git
+git clone https://github.com/Jarri-24-7/TS-TaskManager.git
 cd TS-TaskManager
 npm install
 npm start
